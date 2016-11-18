@@ -1,0 +1,10 @@
+# Site settings
+title: Christian Scheible
+tag_text: Christian Scheible
+description: Personal home page
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
