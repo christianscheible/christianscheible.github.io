@@ -57,6 +57,32 @@ A collection of word analogy problems (e.g., *man is to woman as king is
 to ?*) in multiple languages.
  
 
+## Selected recent publications
+
+(full list available [here](http://www.ims.uni-stuttgart.de/~scheibcn/))
+
+* Christian Scheible, Roman Klinger and Sebastian Pado. [*Model
+Architectures for Quotation
+Detection.*](https://aclweb.org/anthology/P/P16/P16-1164.pdf)
+Proceedings of ACL 2016.
+
+* Christian Scheible and Hinrich Schütze. [*Picking the Amateur's Mind -
+Predicting Chess Player Strength from Game
+Annotations.*](http://aclweb.org/anthology/C/C14/C14-1031.pdf)
+Proceedings of Coling 2014.
+
+* Christian Scheible and Hinrich Schütze. [*Multi-Domain Sentiment
+Relevance Classification with Automatic Representation
+Learning.*](https://www.aclweb.org/anthology/E/E14/E14-4039.pdf)
+Proceedings of EACL 2014.
+
+* Christian Scheible and Hinrich Schütze. [*Sentiment
+Relevance*](http://aclweb.org/anthology/P/P13/P13-1094.pdf) Proceedings
+of ACL 2013.
+
+* Christian Scheible and Hinrich Schütze [*Cutting Recursive Autoencoder
+Trees.*](http://arxiv.org/abs/1301.2811) Proceedings of ICLR 2013.
+
 ## Contact me
 
 ✉ `christian (at) scheibcn.com`
