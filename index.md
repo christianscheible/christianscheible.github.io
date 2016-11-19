@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[I am a researcher](http://www.ims.uni-stuttgart.de/~scheibcn/) at the [Institute for Natural Language
+[I am a researcher](http://www.ims.uni-stuttgart.de/~scheibcn/) at the
+[Institute for Natural Language
 Processing](http://www.ims.uni-stuttgart.de/) (IMS) at the [University
 of Stuttgart](http://www.uni-stuttgart.de/).
 
@@ -13,8 +14,8 @@ primarily in Java or Python.
 In the past, I have worked primarily on text analysis. This includes
 semantic analysis, discourse processing, and sentiment analysis.
 
-I like building tools from scratch (see below), and I also work with
-natural language processing and machine learning tools.
+I like building tools from scratch, but I also work with natural language
+processing and machine learning libraries.
 
 
 ## Software 
@@ -82,6 +83,7 @@ of ACL 2013.
 
 * Christian Scheible and Hinrich Schütze [*Cutting Recursive Autoencoder
 Trees.*](http://arxiv.org/abs/1301.2811) Proceedings of ICLR 2013.
+
 
 ## Contact me
 
