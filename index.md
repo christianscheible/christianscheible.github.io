@@ -2,20 +2,21 @@
 layout: default
 ---
 
-[I am a researcher](http://www.ims.uni-stuttgart.de/~scheibcn/) at the
-[Institute for Natural Language
-Processing](http://www.ims.uni-stuttgart.de/) (IMS) at the [University
-of Stuttgart](http://www.uni-stuttgart.de/).
+I am a data science engineer at [Trusted
+Shops](http://www.trustedshops.de/) in Cologne, Germany.  Previously, I
+was a researcher at the [Institute for Natural Language
+Processing](http://www.ims.uni-stuttgart.de/) (IMS) at the University of
+Stuttgart.
 
 I write software that enables computers to automatically extract
 information from natural language using machine learning. I work
 primarily in Java or Python.
 
 In the past, I have worked primarily on text analysis. This includes
-semantic analysis, discourse processing, and sentiment analysis.
+semantic analysis, discourse processing, and sentiment analysis. 
 
-I like building tools from scratch, but I also work with natural language
-processing and machine learning libraries.
+I am used to building tools from scratch, but I also work with natural
+language processing and machine learning libraries.
 
 
 ## Software 
@@ -58,7 +59,7 @@ A collection of word analogy problems (e.g., *man is to woman as king is
 to ?*) in multiple languages.
  
 
-## Selected recent publications
+## Selected publications 
 
 (full list available [here](http://www.ims.uni-stuttgart.de/~scheibcn/))
 
@@ -89,12 +90,12 @@ Trees.*](http://arxiv.org/abs/1301.2811) Proceedings of ICLR 2013.
 
 ✉ `christian (at) scheibcn.com`
 
-[university website](http://www.ims.uni-stuttgart.de/~scheibcn/) | 
 [LinkedIn](https://de.linkedin.com/in/christian-scheible-20a036a3/de) <br/>
 [professional GitHub](http://github.com/christianscheible) |
 [personal GitHub](http://github.com/imbadatgit)
 
 
+---------------
 <small>Made using Jekyll and [Solo](http://chibicode.github.io/solo)</small>
 
 
