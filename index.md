@@ -2,15 +2,15 @@
 layout: default
 ---
 
-I am a data science engineer at [Trusted
-Shops](http://www.trustedshops.de/) in Cologne, Germany.  Previously, I
+I am a data scientist at [StepStone](https://www.stepstone.com/) living 
+in Cologne, Germany.  Previously, I
 was a researcher at the [Institute for Natural Language
 Processing](http://www.ims.uni-stuttgart.de/) (IMS) at the University of
 Stuttgart.
 
 I write software that enables computers to automatically extract
-information from natural language using machine learning. I work
-primarily in Java or Python.
+information from natural language and other data sources using machine learning. 
+I work primarily in Java or Python.
 
 In the past, I have worked primarily on text analysis. This includes
 semantic analysis, discourse processing, and sentiment analysis. 
