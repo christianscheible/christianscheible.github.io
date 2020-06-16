@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am a data scientist at [StepStone](https://www.stepstone.com/) living 
-in Cologne, Germany.  Previously, I
-was a researcher at the [Institute for Natural Language
+I am a data scientist at [Trusted Shops](https://www.trustedshops.com/) living 
+in Cologne, Germany.  Previously, I worked at [StepStone](https://www.stepstone.de/) and
+at the [Institute for Natural Language
 Processing](http://www.ims.uni-stuttgart.de/) (IMS) at the University of
 Stuttgart.
 
